@@ -1,0 +1,7 @@
+from_image/*
+to_image/*
+to_txt/*
+
+!from_image/
+!to_image/
+!to_txt/
